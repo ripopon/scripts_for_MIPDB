@@ -1,0 +1,9 @@
+/.vscode
+/labels_to_brainnet.py
+/make_fwd.py
+/mne_inverse_coherence_epochs (1).py
+/raw_graphs.py
+/test.py
+/test2.py
+/_make_groop_epoch.py
+/スクリプト解説.txt
