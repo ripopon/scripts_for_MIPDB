@@ -1,3 +1,6 @@
+github
+https://github.com/ripopon/scripts_for_MIPDB.git
+
 ・1_mat2raw_include_events.py
 	|-matデータをrawデータに変換する。
 	|-eventsのデータを[STI 014](stim channel)としてrawデータに付与。
